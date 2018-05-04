@@ -2,24 +2,24 @@ toc:
   - title: Life at Turing
     subfolderitems:
       - page: Budgeting 101
-        url: {{site.baseurl}}/life_at_turing/budgeting_101.html
+        url: /success_at_turing/life_at_turing/budgeting_101.html
       - page: Scheduling
-        url: {{site.baseurl}}/life_at_turing/scheduling.html
+        url: /success_at_turing/life_at_turing/scheduling.html
       - page: Organization
-        url: {{site.baseurl}}/life_at_turing/organization.html
+        url: /success_at_turing/life_at_turing/organization.html
   - title: Technical Prep
     subfolderitems:
       - page: Vocabulary & Study Skills
-        url: {{site.baseurl}}/technical_prep/vocabulary.html
+        url: /success_at_turing/technical_prep/vocabulary.html
       - page: Environment & Shortcuts
-        url: {{site.baseurl}}/technical_prep/environment_and_shortcuts.html
+        url: /success_at_turing/technical_prep/environment_and_shortcuts.html
       - page: Effective Warm-ups
-        url: {{site.baseurl}}/technical_prep/effective_warmups.html
+        url: /success_at_turing/technical_prep/effective_warmups.html
       - page: Problem Solving
-        url: {{site.baseurl}}/technical_prep/problem_solving.html
+        url: /success_at_turing/technical_prep/problem_solving.html
       - page: Pre-Work
-        url: {{site.baseurl}}/technical_prep/pre_work.html
+        url: /success_at_turing/technical_prep/pre_work.html
   - title: Professional Prep
     subfolderitems:
       - page: Mental Health & Self Care
-        url: {{site.baseurl}}/professional_prep/mental_health_and_self_care.html
+        url: /success_at_turing/professional_prep/mental_health_and_self_care.html
