@@ -17,7 +17,7 @@ title: Success at Turing
 email: info@turing.io
 description: >- # this means to ignore newlines until "baseurl:"
   Curriculum for a pre-Turing session regarding how to be successful in the program.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/success_at_turing" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turingschool
 github_username:  turingschool
