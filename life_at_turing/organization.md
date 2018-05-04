@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scheduling
+title: Organization
 ---
 
 ## Content
